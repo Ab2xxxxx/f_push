@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964833230402",
+    "project_id": "fpush-31789",
+    "storage_bucket": "fpush-31789.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964833230402:android:45b206fdfda794129a77db",
+        "android_client_info": {
+          "package_name": "com.example.f_push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKm-8sftyZDG4500f42gtIIDK1_WBpFm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
